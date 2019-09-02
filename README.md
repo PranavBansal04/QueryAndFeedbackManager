@@ -12,3 +12,7 @@ Libraries Used:
 -email<br />
 -os<br />
 -smtplib<br />
+
+The user id and passwords currently are:<br />
+id - admin<br />
+password - admin
